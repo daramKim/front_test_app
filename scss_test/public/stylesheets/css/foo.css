@@ -1,0 +1,13 @@
+body {
+  color: #333;
+  margin: 10px;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  line-height: 125%;
+  background-color: lightpink; }
+  body #box1 {
+    border: 2px solid lightgoldenrodyellow; }
+
+#main {
+  width: 100%;
+  max-width: 960px; }
